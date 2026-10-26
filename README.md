@@ -9,8 +9,16 @@
 
 ---
 ## Notas de aula
-
-
+**stack**
+Expo
+TypeScript
+React Navigation
+Zustand
+TanStack Query
+React Hook Form
+Zod
+NativeWind
+Supabase
 
 ---
 ## Rascunho
